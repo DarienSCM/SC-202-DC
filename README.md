@@ -1,2 +1,2 @@
-# SC-202-DC
-Repositorio para el control de entregas del curso SC-202-AV - Cuatrimestre 1 2025
+# SC_302_Documentacion_MN_Darien
+Repositorio para el curso SC-302-DC - Cuatrimestre 2 2025
